@@ -1,2 +1,8 @@
 # Projeto-FabLab-Sesc-Pompeia
-Sketch Projeto Fablab para o Sesc Pompeia usando o espaço internet livre
+Sketch do projeto Fablab usando o espaço internet livre no [SESC Pompeia](www.sescsp.org.br/unidades/11_POMPEIA)
+
+
+<img src="imgs/projeto_hacklab_internetlivre.jpg"/>
+
+<img src="imgs/projeto_hacklab_internetlivre01.jpg"/> 
+
